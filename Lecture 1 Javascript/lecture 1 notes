@@ -1,0 +1,57 @@
+
+                                      Javascript
+*____________________________________________________________________________________________*
+***************************************Lecture 1**********************************************
+|____________________________________________________________________________________________|
+
+
+--Js ia a programming language.We use it to givr instructions to the computer
+
+____________1st Is code____________
+-- Console.log is used to log(ptint) a message to the console
+ex -- console.log("adi") 
+
+see we make a html file usually named index.html which is connected to browser and then Js file is linked to html in this way it works
+
+____________Variables in Js____________
+--variables are containers for data
+it like a plot in which we have house and imagine there family live so the person will be changed but the plot remains same
+like -- r = 14
+        so we can change r its like that
+        
+* null is a special value like we know what is inside it but there is a empty value in it 
+* undefined is like we don't know what is there
+*seea basic concept like we havemade a variable a = b so the b is assigned in a me save in a (means assigned)
+
+*************************************Varibles rule*********************************************
+
+1.varibles names are case sensitive be sensitive; "a" & "A" is different.
+2.only letters, digits ,underscore(-) and $ is allowed (not even space)
+3.only letter,underscore(_) or $ should be 1st character.
+4.reserved names can't be variables name.
+
+ex-- fullname = "adi"
+     _fullname = "adi"  like this
+     
+*so in JS we write like first small then capitle fullName this is called camelcase type
+
+******************************declearation for variables****************************************
+
+_________________
+let,const and var
+_________________
+1.var :Variables can re-decleared and updated.golbal scope variable.
+
+2.let :Varibles cannot be re-decleared but can be updated .A block scope variable( { code } ).
+
+3.const :variables cannot be re-decleared or updated .Ablock scope variables, see but we can change key in object constant 
+
+
+
+******************************************Data Types*********************************************
+
+Numbers,srings,undefined ,boolean,null,undefined ,symbols,Biglnt  --(primitive types -7)
+
+Non primitive - objects(arrays, functions) 
+
+
